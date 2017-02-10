@@ -1,3 +1,16 @@
+The idea is to invert the stereotype of the individual creativity,
+making it a sharing act.
+
+It also works as a personal log.
+
+Ideally it would be a minimal solution bringing together offline
+locality and online sharing.
+
+Git already provides a good infrastructure for that, but on the other
+hand i like the readability of a list.
+
+Git allows every line to have its own history.
+
 ```
 $ minima-add single line text
 $ minima-block
